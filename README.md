@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,6 +67,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# spring-pool-ui
->>>>>>> cbfb7ca6eedb0bf8c578cf0d8722fb439f98ea55
+
